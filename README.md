@@ -1,6 +1,6 @@
 # ESP32 BH1750 MQTT Publisher
 <div style="display: inline_block">
-<img align="center" src="/esp32LightMQTT.gif" alt="Demonstração"  width="80%">
+<img align="center" src="/esp32LightMQTT.gif" alt="Demonstração"  width="40%">
 </div>
 
 ## 📝 Descrição do Projeto (Português)
