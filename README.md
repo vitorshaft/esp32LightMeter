@@ -1,5 +1,7 @@
 # ESP32 BH1750 MQTT Publisher
 
+<img src="/esp32LightMQTT.gif" alt="Demonstração"  width="80%">
+
 ## 📝 Descrição do Projeto (Português)
 Este projeto demonstra o uso do ESP32 para leitura de um sensor de luz BH1750 via interface I2C e publicação periódica dos dados em um broker MQTT. É ideal para aplicações IoT, permitindo monitorar níveis de luminosidade em tempo real.
 
